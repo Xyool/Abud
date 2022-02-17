@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44a972a557037c835d25b71d789bb2eac050fb43",
+  "SCAN_LINK": "https://polygonscan.com/token/0x44a972a557037c835d25b71d789bb2eac050fb43",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ABuddy",
+  "SYMBOL": "ABuddy",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/abuddy",
+  "SHOW_BACKGROUND": true
+}
